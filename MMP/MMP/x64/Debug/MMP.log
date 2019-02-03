@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\cwj\documents\visual studio 2015\projects\mmp\mmp\源.cpp(105): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“std::size_t”
+  c:\users\cwj\documents\visual studio 2015\projects\mmp\mmp\源.cpp(105): note: 此参数用作缓冲区大小
+  MMP.vcxproj -> c:\users\cwj\documents\visual studio 2015\Projects\MMP\x64\Debug\MMP.exe
+  MMP.vcxproj -> c:\users\cwj\documents\visual studio 2015\Projects\MMP\x64\Debug\MMP.pdb (Full PDB)
